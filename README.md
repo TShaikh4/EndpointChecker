@@ -190,6 +190,4 @@ Current coverage includes:
 - Optional remote endpoint support
 - Additional SOC-focused modules (event log analytics, network monitoring, file integrity monitoring)
 
-## License
 
-Add a license file based on your intended usage before publishing.

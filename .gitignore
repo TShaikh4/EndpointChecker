@@ -1,0 +1,5 @@
+# Build and runtime artifacts
+Artifacts/
+
+# macOS metadata
+.DS_Store
